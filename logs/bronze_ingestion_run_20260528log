@@ -1,0 +1,137 @@
+2026-05-28 06:40:21,571 - INFO - Received command c on object id p0
+2026-05-28 06:40:24,579 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 structural corruption.csv
+2026-05-28 06:40:24,580 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:40:24,581 - INFO - Total files discovered: 2
+2026-05-28 06:45:37,482 - INFO - Python Server ready to receive messages
+2026-05-28 06:45:37,483 - INFO - Received command c on object id p0
+2026-05-28 06:45:37,702 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:45:37,703 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:45:37,704 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 06:45:37,705 - INFO - Total files discovered: 3
+2026-05-28 06:47:53,654 - INFO - Python Server ready to receive messages
+2026-05-28 06:47:53,660 - INFO - Received command c on object id p0
+2026-05-28 06:47:54,052 - INFO - Received command c on object id p0
+2026-05-28 06:47:54,376 - INFO - Received command c on object id p0
+2026-05-28 06:47:54,654 - INFO - Received command c on object id p0
+2026-05-28 06:47:54,983 - INFO - Received command c on object id p0
+2026-05-28 06:47:55,263 - INFO - Received command c on object id p0
+2026-05-28 06:47:55,600 - INFO - Received command c on object id p0
+2026-05-28 06:47:55,958 - INFO - Received command c on object id p0
+2026-05-28 06:47:56,296 - INFO - Received command c on object id p0
+2026-05-28 06:47:56,573 - INFO - Received command c on object id p0
+2026-05-28 06:47:56,898 - INFO - Received command c on object id p0
+2026-05-28 06:47:57,196 - INFO - Received command c on object id p0
+2026-05-28 06:48:11,568 - INFO - Received command c on object id p0
+2026-05-28 06:48:11,910 - INFO - Received command c on object id p0
+2026-05-28 06:48:16,033 - INFO - Received command c on object id p0
+2026-05-28 06:48:16,400 - INFO - Received command c on object id p0
+2026-05-28 06:48:16,684 - INFO - Received command c on object id p0
+2026-05-28 06:48:17,022 - INFO - Received command c on object id p0
+2026-05-28 06:48:17,305 - INFO - Received command c on object id p0
+2026-05-28 06:48:25,051 - INFO - Received command c on object id p0
+2026-05-28 06:48:34,177 - INFO - Received command c on object id p0
+2026-05-28 06:48:34,391 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:48:34,397 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 06:48:34,401 - INFO - Total files discovered: 2
+2026-05-28 06:51:41,249 - INFO - Python Server ready to receive messages
+2026-05-28 06:51:41,252 - INFO - Received command c on object id p0
+2026-05-28 06:51:41,675 - INFO - Received command c on object id p0
+2026-05-28 06:51:41,976 - INFO - Received command c on object id p0
+2026-05-28 06:51:42,313 - INFO - Received command c on object id p0
+2026-05-28 06:51:42,586 - INFO - Received command c on object id p0
+2026-05-28 06:51:42,903 - INFO - Received command c on object id p0
+2026-05-28 06:51:43,154 - INFO - Received command c on object id p0
+2026-05-28 06:51:43,520 - INFO - Received command c on object id p0
+2026-05-28 06:51:43,795 - INFO - Received command c on object id p0
+2026-05-28 06:51:44,116 - INFO - Received command c on object id p0
+2026-05-28 06:51:44,420 - INFO - Received command c on object id p0
+2026-05-28 06:51:44,707 - INFO - Received command c on object id p0
+2026-05-28 06:51:44,994 - INFO - Received command c on object id p0
+2026-05-28 06:51:45,310 - INFO - Received command c on object id p0
+2026-05-28 06:51:45,568 - INFO - Received command c on object id p0
+2026-05-28 06:51:45,838 - INFO - Received command c on object id p0
+2026-05-28 06:51:46,119 - INFO - Received command c on object id p0
+2026-05-28 06:51:46,413 - INFO - Received command c on object id p0
+2026-05-28 06:51:46,717 - INFO - Received command c on object id p0
+2026-05-28 06:51:47,009 - INFO - Received command c on object id p0
+2026-05-28 06:51:49,659 - INFO - Received command c on object id p0
+2026-05-28 06:51:49,960 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:51:49,961 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 06:51:49,962 - INFO - Total files discovered: 2
+2026-05-28 06:53:58,580 - INFO - Python Server ready to receive messages
+2026-05-28 06:53:58,582 - INFO - Received command c on object id p0
+2026-05-28 06:53:58,811 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:53:58,812 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 06:53:58,813 - INFO - Total files discovered: 2
+2026-05-28 06:54:49,503 - INFO - Received command c on object id p0
+2026-05-28 06:54:49,809 - INFO - Received command c on object id p0
+2026-05-28 06:54:50,079 - INFO - Received command c on object id p0
+2026-05-28 06:54:50,358 - INFO - Received command c on object id p0
+2026-05-28 06:54:50,718 - INFO - Received command c on object id p0
+2026-05-28 06:54:50,991 - INFO - Received command c on object id p0
+2026-05-28 06:54:51,248 - INFO - Received command c on object id p0
+2026-05-28 06:54:51,545 - INFO - Received command c on object id p0
+2026-05-28 06:54:51,865 - INFO - Received command c on object id p0
+2026-05-28 06:54:52,174 - INFO - Received command c on object id p0
+2026-05-28 06:54:52,523 - INFO - Received command c on object id p0
+2026-05-28 06:54:52,810 - INFO - Received command c on object id p0
+2026-05-28 06:57:32,559 - INFO - Python Server ready to receive messages
+2026-05-28 06:57:32,563 - INFO - Received command c on object id p0
+2026-05-28 06:57:32,918 - INFO - Received command c on object id p0
+2026-05-28 06:57:33,267 - INFO - Received command c on object id p0
+2026-05-28 06:57:33,562 - INFO - Received command c on object id p0
+2026-05-28 06:57:33,850 - INFO - Received command c on object id p0
+2026-05-28 06:57:34,116 - INFO - Received command c on object id p0
+2026-05-28 06:57:34,227 - INFO - Received command c on object id p0
+2026-05-28 06:57:34,554 - INFO - Received command c on object id p0
+2026-05-28 06:57:34,812 - INFO - Received command c on object id p0
+2026-05-28 06:57:35,141 - INFO - Received command c on object id p0
+2026-05-28 06:57:35,445 - INFO - Received command c on object id p0
+2026-05-28 06:57:35,758 - INFO - Received command c on object id p0
+2026-05-28 06:57:36,025 - INFO - Received command c on object id p0
+2026-05-28 06:57:36,341 - INFO - Received command c on object id p0
+2026-05-28 06:57:36,631 - INFO - Received command c on object id p0
+2026-05-28 06:57:36,953 - INFO - Received command c on object id p0
+2026-05-28 06:57:37,246 - INFO - Received command c on object id p0
+2026-05-28 06:57:37,559 - INFO - Received command c on object id p0
+2026-05-28 06:57:37,833 - INFO - Received command c on object id p0
+2026-05-28 06:57:38,172 - INFO - Received command c on object id p0
+2026-05-28 06:57:38,606 - INFO - Received command c on object id p0
+2026-05-28 06:57:38,899 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 06:57:38,901 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 06:57:38,902 - INFO - Total files discovered: 2
+2026-05-28 07:00:00,994 - INFO - Python Server ready to receive messages
+2026-05-28 07:00:01,002 - INFO - Received command c on object id p0
+2026-05-28 07:00:01,388 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 07:00:01,389 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 07:00:01,390 - INFO - Total files discovered: 2
+2026-05-28 07:02:54,582 - INFO - Python Server ready to receive messages
+2026-05-28 07:02:54,583 - INFO - Received command c on object id p0
+2026-05-28 07:02:54,918 - INFO - Received command c on object id p0
+2026-05-28 07:02:55,185 - INFO - Received command c on object id p0
+2026-05-28 07:02:55,470 - INFO - Received command c on object id p0
+2026-05-28 07:02:55,777 - INFO - Received command c on object id p0
+2026-05-28 07:02:56,072 - INFO - Received command c on object id p0
+2026-05-28 07:02:56,335 - INFO - Received command c on object id p0
+2026-05-28 07:02:56,548 - INFO - Received command c on object id p0
+2026-05-28 07:02:56,759 - INFO - Received command c on object id p0
+2026-05-28 07:02:57,040 - INFO - Received command c on object id p0
+2026-05-28 07:02:57,249 - INFO - Received command c on object id p0
+2026-05-28 07:02:57,452 - INFO - Received command c on object id p0
+2026-05-28 07:02:59,091 - INFO - Received command c on object id p0
+2026-05-28 07:02:59,349 - INFO - Received command c on object id p0
+2026-05-28 07:03:00,432 - INFO - Received command c on object id p0
+2026-05-28 07:03:00,696 - INFO - Received command c on object id p0
+2026-05-28 07:03:00,980 - INFO - Received command c on object id p0
+2026-05-28 07:03:01,297 - INFO - Received command c on object id p0
+2026-05-28 07:03:01,564 - INFO - Received command c on object id p0
+2026-05-28 07:03:03,018 - INFO - Received command c on object id p0
+2026-05-28 07:03:04,890 - INFO - Received command c on object id p0
+2026-05-28 07:03:05,157 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 07:03:05,157 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 07:03:05,158 - INFO - Total files discovered: 2
+2026-05-28 07:04:28,826 - INFO - Python Server ready to receive messages
+2026-05-28 07:04:28,828 - INFO - Received command c on object id p0
+2026-05-28 07:04:29,325 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger.csv
+2026-05-28 07:04:29,326 - INFO - Discovered file: /Volumes/fake_general_ledger/default/gl_raw/general_ledger 2 schema drift.csv
+2026-05-28 07:04:29,327 - INFO - Total files discovered: 2
