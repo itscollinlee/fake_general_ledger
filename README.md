@@ -53,36 +53,6 @@ The solution is designed to be scalable, reusable, and auditable while supportin
 * Schema monitoring
 * Operational metrics
 
-
-Architectural Design
-
-Source Files
-     │
-     ▼
-Bronze Layer
-     │
-     ├── Ingestion Control
-     ├── Schema Change Log
-     ├── Observability
-     └── Metadata Tracking
-     │
-     ▼
-Silver Layer
-     │
-     ├── Standardization
-     ├── Data Quality
-     ├── Business Rules
-     └── Conformed Data
-     │
-     ▼
-Gold Layer
-     │
-     ├── Fact General Ledger
-     ├── Dim Account
-     ├── Dim Territory
-     ├── Dim Calendar
-     └── Financial Reporting
-
 ## Key Technologies
 
 Databricks
